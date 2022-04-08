@@ -16,7 +16,7 @@
   <img align="center" alt="Vivi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vivi-java" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
   <img align="center" alt="Vivi-mysql" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/961806981528690731/961807058720653352/download20220404225648.png">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src=https://i.picasion.com/pic92/d01e61c550dce019dd547eb03b767d5b.gif>
 </div>
   
   ##
