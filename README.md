@@ -2,7 +2,7 @@
 
 
 - 🔭 Trabalho com front-end e back-end
-- 🌱 Estou estudando POO
+- 🌱 Estou estudando Angular
 - 😄 Pronouns: ela dela
 
 <div align="center">
