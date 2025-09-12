@@ -7,7 +7,6 @@
 - 👩‍🎓 Pós-Graduada em Desenvolvimento Full-Stack
 - 📍 São Paulo - BR
 - 😄 Pronouns: ela dela
-- 📩 E-mail: vivianecorreasv@gmail.com
 
 <div align="center">
   <div style="display: inline_block"><br>
