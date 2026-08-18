@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Viviane 😁
 
 
-- 🔭 Trabalho como QA e desenvolvedora full-stack
-- 🌱 Estou estudando Cypress
+- 🔭 Trabalho como QA
+- 🌱 Estou estudando Appium 
 - 👩‍🎓 Formada em Análise e Desenvolvimento de Sistemas
 - 👩‍🎓 Pós-Graduada em Desenvolvimento Full-Stack
 - 📍 São Paulo - BR
